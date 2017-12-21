@@ -1,1 +1,1 @@
-# Manuscrit de thèse
+# Manuscrit et présentation de thèse
