@@ -1,2 +1,2 @@
 # - Manuscrit de thèse
-# - Présentation (Slides)
+# - Présentation de soutenance (Slides)
